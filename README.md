@@ -1,16 +1,12 @@
 # ECE650 : Programming Assignment 2
 
-Replace FIRST_NAME, LAST_NAME, WATIAM, and STUDENT_ID, EMAIL in
-`user.yml` by your first and last name, WatIAM id, student number, and
-email, respectively. Whenever possible, please use ASCII characters.
+```mkdir build ```
 
-Do not change the format `user.yml`. We will parse it
-automatically. Only enter the information requested.
+```cd build```
 
-The main file for your solution to the assignment should be
-`main.cc`.
+```cmake ../```
 
-You might need to modify `CMakeLists.txt` if you are adding additional
-source files for your code.
+```make```
 
-Commit your changes and submit on GitLab.
+```./bonus```
+
