@@ -1,4 +1,4 @@
-# ECE650 : Programming Assignment 2
+# ECE650 : Programming Assignment 3
 
 ```mkdir build ```
 
@@ -8,5 +8,5 @@
 
 ```make```
 
-```./bonus```
+```./solver```
 
